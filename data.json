@@ -6,19 +6,14 @@
   },
   "equipe": [
     {
-      "nom": "Alice",
-      "role": "Développeuse Front-end",
+      "nom": "Manon Fantou",
+      "role": "avocate",
       "bio": "Passionnée par le design et l'expérience utilisateur."
     },
     {
-      "nom": "Bob",
-      "role": "Développeur Back-end",
+      "nom": "Anh-Mai DANG",
+      "role": "avocate",
       "bio": "Expert en bases de données et sécurité des serveurs."
-    },
-    {
-      "nom": "Charlie",
-      "role": "Chef de projet",
-      "bio": "Il s'assure que tout est livré à temps."
     }
   ]
 }
