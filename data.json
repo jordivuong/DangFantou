@@ -1,0 +1,24 @@
+{
+  "nomDuSite": "Mon Super Projet",
+  "accueil": {
+    "titre": "Bienvenue sur notre site web !",
+    "description": "Ce texte et les informations de l'équipe sont chargés dynamiquement depuis GitHub. Si vous modifiez le fichier JSON, le site se mettra à jour tout seul."
+  },
+  "equipe": [
+    {
+      "nom": "Alice",
+      "role": "Développeuse Front-end",
+      "bio": "Passionnée par le design et l'expérience utilisateur."
+    },
+    {
+      "nom": "Bob",
+      "role": "Développeur Back-end",
+      "bio": "Expert en bases de données et sécurité des serveurs."
+    },
+    {
+      "nom": "Charlie",
+      "role": "Chef de projet",
+      "bio": "Il s'assure que tout est livré à temps."
+    }
+  ]
+}
