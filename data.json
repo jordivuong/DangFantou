@@ -1,7 +1,7 @@
 {
-  "nomDuSite": "Mon Super Projet",
+  "nomDuSite": "Dang Fantou",
   "accueil": {
-    "titre": "Bienvenue sur notre site web !",
+    "titre": "cabinet de droit pénal",
     "description": "Ce texte et les informations de l'équipe sont chargés dynamiquement depuis GitHub. Si vous modifiez le fichier JSON, le site se mettra à jour tout seul."
   },
   "equipe": [
