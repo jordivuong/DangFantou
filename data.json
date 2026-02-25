@@ -1,19 +1,17 @@
 {
-  "nomDuSite": "Dang Fantou",
-  "accueil": {
-    "titre": "cabinet de droit pénal",
-    "description": "Ce texte et les informations de l'équipe sont chargés dynamiquement depuis GitHub. Si vous modifiez le fichier JSON, le site se mettra à jour tout seul."
+  "cabinet": "DANG\nFANTOU",
+  "presentation": {
+    "titre": "Défense pénale & contentieux",
+    "sous_titres": "Droit pénal général • Droit pénal des affaires • Contentieux",
+    "contact": "contact@dang-fantou.com • +33 1 45 49 67 60",
+    "adresse": "49 Rue Saint-Roch, 75001 Paris",
+    "texte": "Formée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires, Anh-Mai Dang a ensuite exercé pendant cinq années... [Ton texte complet ici]"
   },
   "equipe": [
     {
-      "nom": "Manon Fantou",
-      "role": "avocate",
-      "bio": "Passionnée par le design et l'expérience utilisateur."
-    },
-    {
-      "nom": "Anh-Mai DANG",
-      "role": "avocate",
-      "bio": "Anh-Mai Dang est avocate au barreau de Paris.</br>Sa pratique couvre tous les aspects du droit pénal général et du droit pénal des affaires. Dans ce cadre, elle intervient à tous les stades de la procédure pénale (plainte, garde à vue, enquêtes, information judiciaire, audience, aménagement de peine), tant pour des clients institutionnels que pour des particuliers, qu'ils soient mis en cause ou victimes d'infractions.</br>Elle a par ailleurs développé une solide expertise en droit de la presse, soucieuse d'assurer la défense de ses clients dans le cadre de crises médiatiques.</br>Membre de l’Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient également régulièrement en défense de mineurs devant les juridictions pénales, ainsi que pour accompagner ceux en situation de danger.</br>Formée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de créer son propre cabinet.</br>Elle avait préalablement travaillé au sein de la Banque européenne d'investissement et du service de l’instruction du tribunal judiciaire de Bobigny.</br>Anh-Mai Dang est diplômée de l’École de Droit de Sciences Po Paris (Master II Global Governance Studies) et titulaire de la double licence en sciences sociales et sciences de Sciences Po Paris et la Sorbonne Université (UPMC).</br>Elle travaille aussi bien en français qu'en anglais.</br>Elle est inscrite sur les listes de défense pénale d'urgence, dont celles spécialisées dans les violences intrafamiliales, ainsi que sur celle de la Cour nationale du droit d'asile (CNDA)."
+      "nom": "Anh-Mai Dang",
+      "role": "Avocate Fondatrice",
+      "bio": "Expertise en droit pénal..."
     }
   ]
 }
