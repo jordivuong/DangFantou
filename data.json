@@ -17,7 +17,13 @@
         "nom": "Anh-Mai Dang",
         "role": "Avocate Fondatrice",
         "bio": "Expertise en droit pénal et contentieux des affaires.",
-        "photo": "https://via.placeholder.com/400x500/E8E5DF/1C1C1C?text=Photo+Anh-Mai"
+        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
+      },
+      {
+        "nom": "Manon Fantou",
+        "role": "Avocate Associée",
+        "bio": "Expertise en droit pénal général et droit pénal des affaires.",
+        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
     "actualites": [
@@ -25,6 +31,12 @@
         "titre": "À Clichy-sous-Bois, un jeune de 19 ans tabassé « par erreur » par des policiers",
         "source": "StreetPress, le 23 avril 2025",
         "texte": "Défense d'un prévenu de 18 ans victime de violences policières et relaxé par le tribunal correctionnel de Paris.",
+        "lien": "#"
+      },
+      {
+        "titre": "Supermarché de la drogue à Chauny : relaxes, peines lourdes et émotions lors du délibéré",
+        "source": "Aisne Nouvelle, le 12 avril 2024",
+        "texte": "Relaxe obtenue par le cabinet dans un dossier de blanchiment, non justification de ressources et trafic de stupéfiants. « \"L’épicier sauvage\", l’octogénaire à qui la justice reprochait sa complicité et le blanchiment de l’argent du réseau est relaxé aussi. \"Ses 40 jours en préventive lui ont fait prendre 10 ans\", plaidait son avocate durant l’après-midi. »",
         "lien": "#"
       }
     ]
@@ -40,21 +52,27 @@
       "sous_titres": "General Criminal Law • White-Collar Crime • Litigation",
       "contact": "contact@dang-fantou.com • +33 1 45 49 67 60",
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
-      "texte": "[English translation of the presentation goes here...]"
+      "texte": "Formed within French and Anglo-Saxon law firms recognized for their expertise in criminal law and business litigation, Anh-Mai Dang then practiced for five years alongside Jean-Marc Fédida and Julie Fabreguettes, before creating her own firm.\nShe had previously worked within the European Investment Bank and the investigating service of the judicial court of Bobigny."
     },
     "membres": [
       {
         "nom": "Anh-Mai Dang",
         "role": "Founding Partner",
-        "bio": "Expertise in criminal law and commercial litigation.",
-        "photo": "https://via.placeholder.com/400x500/E8E5DF/1C1C1C?text=Photo+Anh-Mai"
+        "bio": "Expertise in criminal law and business litigation.",
+        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
+      },
+      {
+        "nom": "Manon Fantou",
+        "role": "Partner",
+        "bio": "Expertise in general criminal law and white-collar crime.",
+        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
     "actualites": [
       {
-        "titre": "[EN] À Clichy-sous-Bois, un jeune de 19 ans tabassé...",
+        "titre": "In Clichy-sous-Bois, a 19-year-old beaten 'by mistake' by police officers",
         "source": "StreetPress, April 23, 2025",
-        "texte": "Defense of an 18-year-old defendant...",
+        "texte": "Defense of an 18-year-old defendant victim of police violence and acquitted by the Paris criminal court.",
         "lien": "#"
       }
     ]
