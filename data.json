@@ -10,19 +10,19 @@
       "sous_titres": "Droit pénal général • Droit pénal des affaires • Contentieux",
       "contact": "contact@dang-fantou.com • +33 1 45 49 67 60",
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
-      "texte": "Formée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de créer son propre cabinet.\nElle avait préalablement travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny."
+      "texte": "Dédié à la défense pénale et au contentieux des affaires, le cabinet Dang Fantou accompagne ses clients avec rigueur et réactivité. Son expertise s'étend au droit des affaires, au contentieux général ainsi qu'à la justice des mineurs."
     },
     "membres": [
       {
         "nom": "Anh-Mai Dang",
-        "role": "Avocate Fondatrice",
-        "bio": "Expertise en droit pénal et contentieux des affaires.",
+        "role": "Avocate",
+        "bio": "Formée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de créer son propre cabinet.\nElle avait préalablement travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
         "nom": "Manon Fantou",
-        "role": "Avocate Associée",
-        "bio": "Expertise en droit pénal général et droit pénal des affaires.",
+        "role": "Avocate",
+        "bio": "Pendant quatre années, Manon Fantou a fait ses armes auprès de Céline Lasek, avocate pénaliste de renom. En 2022, Manon Fantou a créé son propre cabinet. Manon Fantou assiste et défend des particuliers à tous les stades de la procédure pénale (gardes à vue, interrogatoires, instruction, audiences correctionnelles et criminelles) et ce, devant toutes les juridictions. Diplômée du Magistère Juriste d’Affaires de l’Université Paris II – Panthéon Assas et du King’s College de Londres, Manon Fantou intervient tant en droit pénal général qu’en droit pénal des affaires. Manon Fantou est également l’autrice d’un roman paru en 2022 au Mercure de France.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
@@ -57,14 +57,14 @@
     "membres": [
       {
         "nom": "Anh-Mai Dang",
-        "role": "Founding Partner",
-        "bio": "Expertise in criminal law and business litigation.",
+        "role": "Lawyer",
+        "bio": "",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
         "nom": "Manon Fantou",
-        "role": "Partner",
-        "bio": "Expertise in general criminal law and white-collar crime.",
+        "role": "Lawyer",
+        "bio": "",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
