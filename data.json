@@ -14,30 +14,66 @@
     },
     "membres": [
       {
-        "nom": "Anh-Mai Dang",
-        "role": "Avocate",
-        "bio": "Formée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de créer son propre cabinet.\nElle avait préalablement travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny.",
+        "nom": "Anh-Mai DANG",
+        "role": "Avocate à la Cour",
+        "bio": "Anh-Mai Dang est avocate au barreau de Paris. Sa pratique couvre tous les aspects du droit pénal général et du droit pénal des affaires. Dans ce cadre, elle intervient à tous les stades de la procédure pénale (plainte, garde à vue, enquêtes, information judiciaire, audience, aménagement de peine), tant pour des clients institutionnels que pour des particuliers, qu'ils soient mis en cause ou victimes d'infractions.\n\nElle a par ailleurs développé une solide expertise en droit de la presse, soucieuse d'assurer la défense de ses clients dans le cadre de crises médiatiques. Membre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient également régulièrement en défense de mineurs devant les juridictions pénales, ainsi que pour accompagner ceux en situation de danger.\n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de créer son propre cabinet. Elle avait préalablement travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny.\n\nAnh-Mai Dang est diplômée de l'École de Droit de Sciences Po Paris (Master II Global Governance Studies) et titulaire de la double licence en sciences sociales et sciences de Sciences Po Paris et la Sorbonne Université (UPMC). Elle travaille aussi bien en français qu'en anglais.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
-        "nom": "Manon Fantou",
-        "role": "Avocate",
-        "bio": "Pendant quatre années, Manon Fantou a fait ses armes auprès de Céline Lasek, avocate pénaliste de renom. En 2022, Manon Fantou a créé son propre cabinet. Manon Fantou assiste et défend des particuliers à tous les stades de la procédure pénale (gardes à vue, interrogatoires, instruction, audiences correctionnelles et criminelles) et ce, devant toutes les juridictions. Diplômée du Magistère Juriste d’Affaires de l’Université Paris II – Panthéon Assas et du King’s College de Londres, Manon Fantou intervient tant en droit pénal général qu’en droit pénal des affaires. Manon Fantou est également l’autrice d’un roman paru en 2022 au Mercure de France.",
+        "nom": "Manon FANTOU",
+        "role": "Avocate à la Cour",
+        "bio": "Pendant quatre années, Manon Fantou a fait ses armes auprès de Céline Lasek, avocate pénaliste de renom. En 2022, Manon Fantou a créé son propre cabinet.\n\nManon Fantou assiste et défend des particuliers à tous les stades de la procédure pénale (gardes à vue, interrogatoires, instruction, audiences correctionnelles et criminelles) et ce, devant toutes les juridictions. Diplômée du Magistère Juriste d'Affaires de l'Université Paris II - Panthéon Assas et du King's College de Londres, Manon Fantou intervient tant en droit pénal général qu'en droit pénal des affaires.\n\nManon Fantou est également l'autrice d'un roman paru en 2022 au Mercure de France.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
     "actualites": [
       {
         "titre": "À Clichy-sous-Bois, un jeune de 19 ans tabassé « par erreur » par des policiers",
-        "source": "StreetPress, le 23 avril 2025",
+        "source": "Publié par StreetPress, le 23 avril 2025",
         "texte": "Défense d'un prévenu de 18 ans victime de violences policières et relaxé par le tribunal correctionnel de Paris.",
-        "lien": "#"
+        "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
       },
       {
         "titre": "Supermarché de la drogue à Chauny : relaxes, peines lourdes et émotions lors du délibéré",
-        "source": "Aisne Nouvelle, le 12 avril 2024",
+        "source": "Publié par l'Aisne Nouvelle, le 12 avril 2024",
         "texte": "Relaxe obtenue par le cabinet dans un dossier de blanchiment, non justification de ressources et trafic de stupéfiants. « \"L’épicier sauvage\", l’octogénaire à qui la justice reprochait sa complicité et le blanchiment de l’argent du réseau est relaxé aussi. \"Ses 40 jours en préventive lui ont fait prendre 10 ans\", plaidait son avocate durant l’après-midi. »",
-        "lien": "#"
+        "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
+      },
+      {
+        "titre": "Booba et Kaaris condamnés à payer 45 000 € pour les dégâts engendrés par leur confrontation à Orly",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Implication dans la défense de la partie civile dans l’affaire de la rixe entre Booba et Kaaris devant le tribunal correctionnel de Créteil.",
+        "lien": "https://www.ouest-france.fr/societe/justice/booba-et-kaaris-condamnes-payer-45-000-eu-pour-les-degats-engendres-par-leur-confrontation-orly-6662439"
+      },
+      {
+        "titre": "Cinq jours de procès pour les protagonistes du supermarché de la drogue démantelé en mars 2020",
+        "source": "Publié par l'Aisne Nouvelle, le 6 avril 2024",
+        "texte": "Durant cinq jours, du lundi 8 au vendredi 12 avril, neuf prévenus vont se succéder à la barre du tribunal de Laon pour expliquer leur rôle dans l'organisation d'un important trafic de drogue à Chauny, démantelé en mars 2022.",
+        "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
+      },
+      {
+        "titre": "Implication dans la défense de dirigeants d’entreprise devant les juridictions correctionnelles de Rennes",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Implication dans la défense de dirigeants d’entreprise dans un dossier d’abus de biens sociaux, abus de confiance, blanchiment, banqueroute et organisation frauduleuse d’insolvabilité, ayant conduit à une relaxe partielle.",
+        "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
+      },
+      {
+        "titre": "Implication en défense dans le cadre d’une affaire #meetoo",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Implication dans la défense d’une mise en cause dans le cadre d’une affaire importante du mouvement #meetoo, la cour d’appel de Paris ayant jugé que cette dernière disposait d’une base factuelle suffisante quant aux faits qu’elle dénonçait.",
+        "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
+      },
+      {
+        "titre": "Alsace : les profanateurs du cimetière juif de Sarre-Union lourdement condamnés à payer des dommages et intérêts",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Intervention en défense de parties civiles dans l’affaire de la profanation du cimetière de Sarre-Union, tant concernant le volet pénal que celui des intérêts civils devant le tribunal pour enfants de Saverne.",
+        "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
+      },
+      {
+        "titre": "Publication : Faut-il codifier le droit international privé de la faillite ?",
+        "source": "Publié par Bulletin Joly Entreprises en difficulté, le 1 novembre 2015",
+        "texte": "Réflexion sur un alignement du droit international privé français dans un souci de lisibilité et de simplification à la suite de la jurisprudence récente de la Cour de justice de l’Union européenne.",
+        "lien": "https://www.labase-lextenso.fr/bulletin-joly-entreprises-en-difficulte/BJE112v1"
       }
     ]
   },
@@ -52,28 +88,28 @@
       "sous_titres": "General Criminal Law • White-Collar Crime • Litigation",
       "contact": "contact@dang-fantou.com • +33 1 45 49 67 60",
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
-      "texte": "Formed within French and Anglo-Saxon law firms recognized for their expertise in criminal law and business litigation, Anh-Mai Dang then practiced for five years alongside Jean-Marc Fédida and Julie Fabreguettes, before creating her own firm.\nShe had previously worked within the European Investment Bank and the investigating service of the judicial court of Bobigny."
+      "texte": "Dedicated to criminal defense and business litigation, Dang Fantou provides rigorous and responsive legal representation. The firm also operates in business law, general litigation, and juvenile justice."
     },
     "membres": [
       {
-        "nom": "Anh-Mai Dang",
-        "role": "Lawyer",
-        "bio": "",
+        "nom": "Anh-Mai DANG",
+        "role": "Attorney-at-law",
+        "bio": "Anh-Mai Dang is a member of the Paris Bar. Her practice covers all aspects of general and white-collar criminal law. She intervenes at all stages of criminal proceedings for both institutional and private clients.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
-        "nom": "Manon Fantou",
-        "role": "Lawyer",
-        "bio": "",
+        "nom": "Manon FANTOU",
+        "role": "Attorney-at-law",
+        "bio": "Manon Fantou assists and defends individuals in all stages of criminal proceedings before all jurisdictions. She specializes in both general and white-collar criminal law.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
     "actualites": [
       {
         "titre": "In Clichy-sous-Bois, a 19-year-old beaten 'by mistake' by police officers",
-        "source": "StreetPress, April 23, 2025",
+        "source": "Published by StreetPress, April 23, 2025",
         "texte": "Defense of an 18-year-old defendant victim of police violence and acquitted by the Paris criminal court.",
-        "lien": "#"
+        "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
       }
     ]
   }
