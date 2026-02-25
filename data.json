@@ -12,18 +12,12 @@
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
       "texte": "Formée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de créer son propre cabinet.\nElle avait préalablement travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny."
     },
-    "equipe": [
+    "membres": [
       {
         "nom": "Anh-Mai Dang",
         "role": "Avocate Fondatrice",
         "bio": "Expertise en droit pénal et contentieux des affaires.",
         "photo": "https://via.placeholder.com/400x500/E8E5DF/1C1C1C?text=Photo+Anh-Mai"
-      },
-      {
-        "nom": "Manon Fantou",
-        "role": "Avocate à la Cour",
-        "bio": "Pendant quatre années, Manon Fantou a fait ses armes auprès de Céline Lasek, avocate pénaliste de renom. En 2022, Manon Fantou a créé son propre cabinet. Manon Fantou assiste et défend des particuliers à tous les stades de la procédure pénale (gardes à vue, interrogatoires, instruction, audiences correctionnelles et criminelles) et ce, devant toutes les juridictions. Diplômée du Magistère Juriste d’Affaires de l’Université Paris II – Panthéon Assas et du King’s College de Londres, Manon Fantou intervient tant en droit pénal général qu’en droit pénal des affaires. Manon Fantou est également l’autrice d’un roman paru en 2022 au Mercure de France.",
-        "photo": "https://via.placeholder.com/400x500/E8E5DF/1C1C1C?text=Photo+Collaborateur"
       }
     ],
     "actualites": [
@@ -31,48 +25,6 @@
         "titre": "À Clichy-sous-Bois, un jeune de 19 ans tabassé « par erreur » par des policiers",
         "source": "StreetPress, le 23 avril 2025",
         "texte": "Défense d'un prévenu de 18 ans victime de violences policières et relaxé par le tribunal correctionnel de Paris.",
-        "lien": "#"
-      },
-      {
-        "titre": "Supermarché de la drogue à Chauny : relaxes, peines lourdes et émotions lors du délibéré",
-        "source": "Aisne Nouvelle, le 12 avril 2024",
-        "texte": "Relaxe obtenue par le cabinet dans un dossier de blanchiment, non justification de ressources et trafic de stupéfiants. « \"L’épicier sauvage\", l’octogénaire à qui la justice reprochait sa complicité et le blanchiment de l’argent du réseau est relaxé aussi. \"Ses 40 jours en préventive lui ont fait prendre 10 ans\", plaidait son avocate durant l’après-midi. »",
-        "lien": "#"
-      },
-      {
-        "titre": "Cinq jours de procès pour les protagonistes du supermarché de la drogue démantelé en mars 2020",
-        "source": "Aisne Nouvelle, le 6 avril 2024",
-        "texte": "Défense d’un prévenu dans un dossier de blanchiment, non justification de ressources et trafic de stupéfiants.",
-        "lien": "#"
-      },
-      {
-        "titre": "Implication dans la défense de dirigeants d’entreprise devant les juridictions correctionnelles de Rennes",
-        "source": "La Nouvelle République, le 20 avril 2021",
-        "texte": "Implication dans la défense de dirigeants d’entreprise dans un dossier d’abus de biens sociaux, abus de confiance, blanchiment, banqueroute et organisation frauduleuse d’insolvabilité, ayant conduit à une relaxe partielle.",
-        "lien": "#"
-      },
-      {
-        "titre": "Implication en défense dans le cadre d’une affaire #meetoo",
-        "source": "Le Monde, le 14 avril 2021",
-        "texte": "Implication dans la défense d’une mise en cause dans le cadre d’une affaire importante du mouvement #meetoo, la cour d’appel de Paris ayant jugé que cette dernière disposait d’une base factuelle suffisante quant aux faits qu’elle dénonçait sur son blog de la part de l’ex-ministre de l’Intérieur.",
-        "lien": "#"
-      },
-      {
-        "titre": "Alsace : les profanateurs du cimetière juif de Sarre-Union lourdement condamnés à payer des dommages et intérêts",
-        "source": "France 3 Régions, le 27 mars 2022",
-        "texte": "Intervention en défense de parties civiles dans l’affaire de la profanation du cimetière de Sarre-Union, tant concernant le volet pénal que celui des intérêts civils devant le tribunal pour enfants de Saverne.",
-        "lien": "#"
-      },
-      {
-        "titre": "Booba et Kaaris condamnés à payer pour les dégâts engendrés par leur confrontation à Orly",
-        "source": "Ouest-France, le 19 décembre 2019",
-        "texte": "Implication dans la défense de la partie civile dans l’affaire de la rixe entre Booba et Kaaris devant le tribunal correctionnel de Créteil.",
-        "lien": "#"
-      },
-      {
-        "titre": "Publication : Faut-il codifier le droit international privé de la faillite ?",
-        "source": "Bulletin Joly Entreprises en difficulté, N°06 du 1 novembre 2015",
-        "texte": "À la suite de la jurisprudence récente de la Cour de justice de l’Union européenne, le règlement (CE) n°1346/2000 du 29 mai 2000 relatif aux procédures d’insolvabilité a vocation à devenir le droit commun de la faillite internationale. Ne faut-il pas réfléchir alors à un alignement du droit international privé français dans un souci de lisibilité et de simplification ?",
         "lien": "#"
       }
     ]
@@ -90,7 +42,7 @@
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
       "texte": "[English translation of the presentation goes here...]"
     },
-    "equipe": [
+    "membres": [
       {
         "nom": "Anh-Mai Dang",
         "role": "Founding Partner",
