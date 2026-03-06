@@ -3,7 +3,6 @@
     "menu": {
       "presentation": "présentation",
       "cabinet": "cabinet",
-      "interventions": "domaines d'intervention"
       "actualites": "actualités"
     },
     "presentation": {
@@ -27,16 +26,6 @@
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
-    "interventions": {
-    "titre": "Domaines d'intervention",
-    "texte": "Le cabinet Dang Fantou intervient dans les domaines suivants :",
-    "liste": [
-    "- Droit pénal général",
-    "- Droit pénal des affaires",
-    "- Droit pénal des mineurs (mis en cause ou victimes)",
-    "- Assistance éducative"
-    "- Droit de la presse"
-  ]
 }
     "actualites": [
       {
