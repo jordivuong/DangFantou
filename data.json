@@ -38,8 +38,55 @@
         "source": "Publié par Ouest France, le 13 février 2025",
         "texte": "L’auteure et avocate Manon Fantou va à la rencontre des lecteurs.",
         "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/manon-fantou-ira-a-la-rencontre-des-lecteurs-a-dinard-e5df0676-ea23-11ef-a7b6-01d21f34ff3b"
+      },
+      {
+        "titre": "Supermarché de la drogue à Chauny : relaxes, peines lourdes et émotions lors du délibéré",
+        "source": "Publié par l'Aisne Nouvelle, le 12 avril 2024",
+        "texte": "Relaxe obtenue par le cabinet dans un dossier de blanchiment, non justification de ressources et trafic de stupéfiants. « \"L’épicier sauvage\", l’octogénaire à qui la justice reprochait sa complicité et le blanchiment de l’argent du réseau est relaxé aussi. \"Ses 40 jours en préventive lui ont fait prendre 10 ans\", plaidait son avocate durant l’après-midi. »",
+        "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
+      },
+      {
+        "titre": "Booba et Kaaris condamnés à payer 45 000 € pour les dégâts engendrés par leur confrontation à Orly",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Implication dans la défense de la partie civile dans l’affaire de la rixe entre Booba et Kaaris devant le tribunal correctionnel de Créteil.",
+        "lien": "https://www.ouest-france.fr/societe/justice/booba-et-kaaris-condamnes-payer-45-000-eu-pour-les-degats-engendres-par-leur-confrontation-orly-6662439"
+      },
+      {
+        "titre": "Cinq jours de procès pour les protagonistes du supermarché de la drogue démantelé en mars 2020",
+        "source": "Publié par l'Aisne Nouvelle, le 6 avril 2024",
+        "texte": "Durant cinq jours, du lundi 8 au vendredi 12 avril, neuf prévenus vont se succéder à la barre du tribunal de Laon pour expliquer leur rôle dans l'organisation d'un important trafic de drogue à Chauny, démantelé en mars 2022.",
+        "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
+      },
+      {
+        "titre": "Implication dans la défense de dirigeants d’entreprise devant les juridictions correctionnelles de Rennes",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Implication dans la défense de dirigeants d’entreprise dans un dossier d’abus de biens sociaux, abus de confiance, blanchiment, banqueroute et organisation frauduleuse d’insolvabilité, ayant conduit à une relaxe partielle.",
+        "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
+      },
+      {
+        "titre": "Implication en défense dans le cadre d’une affaire #meetoo",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Implication dans la défense d’une mise en cause dans le cadre d’une affaire importante du mouvement #meetoo, la cour d’appel de Paris ayant jugé que cette dernière disposait d’une base factuelle suffisante quant aux faits qu’elle dénonçait.",
+        "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
+      },
+      {
+        "titre": "Alsace : les profanateurs du cimetière juif de Sarre-Union lourdement condamnés à payer des dommages et intérêts",
+        "source": "Publié par l'Aisne Nouvelle, le 22 avril 2024",
+        "texte": "Intervention en défense de parties civiles dans l’affaire de la profanation du cimetière de Sarre-Union, tant concernant le volet pénal que celui des intérêts civils devant le tribunal pour enfants de Saverne.",
+        "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
+      },
+      {
+        "titre": "Devenue avocate pénaliste, Manon Fantou revient à Dinard pour dédicacer son premier roman",
+        "source": "Publié par Ouest France, le 7 avril 2022",
+        "texte": "Manon Fantou est avocate pénaliste à Paris. Née à Dinard, elle vient de signer son premier roman, « Les Confidentes », édité au Mercure de France. Samedi 9 avril 2022, elle sera à la librairie Nouvelles impressions, à Dinard, pour une séance de dédicaces.",
+        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/portrait-devenue-avocate-penaliste-elle-revient-a-dinard-pour-dedicacer-son-premier-roman-09a350b8-b65a-11ec-82d3-a0c4b0db3b06"
+      },
+      {
+        "titre": "Publication : Faut-il codifier le droit international privé de la faillite ?",
+        "source": "Publié par Bulletin Joly Entreprises en difficulté, le 1 novembre 2015",
+        "texte": "Réflexion sur un alignement du droit international privé français dans un souci de lisibilité et de simplification à la suite de la jurisprudence récente de la Cour de justice de l’Union européenne.",
+        "lien": "https://www.labase-lextenso.fr/bulletin-joly-entreprises-en-difficulte/BJE112v1"
       }
-      // les autres actualités suivent le même format sans virgule après le dernier élément
     ]
   },
   "en": {
@@ -50,22 +97,22 @@
     },
     "presentation": {
       "titre": "Criminal Defense & Litigation",
-      "sous_titres": "General Criminal Law • White-Collar Crime • Litigation",
+      "sous_titres": "General Criminal Law • White-Collar Crime • Juvenile Law",
       "contact": "contact@dang-fantou.com • +33 1 45 49 67 60",
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
-      "texte": "Dedicated to criminal defense and business litigation, Dang Fantou provides rigorous and responsive legal representation. The firm also operates in business law, general litigation, and juvenile justice."
+      "texte": "The Dang Fantou firm is dedicated to criminal defense and juvenile justice. It provides clients with responsive, rigorous, and creative legal support."
     },
     "membres": [
       {
         "nom": "Anh-Mai DANG",
-        "role": "Attorney-at-law",
-        "bio": "Anh-Mai Dang is a member of the Paris Bar. Her practice covers all aspects of general and white-collar criminal law. She intervenes at all stages of criminal proceedings for both institutional and private clients.",
+        "role": "Partner",
+        "bio": "amd@dang-avocat.com • +33 7 49 10 97 87\n\nAnh-Mai Dang is a lawyer at the Paris Bar. Her practice covers all aspects of general criminal law and white-collar criminal law. She intervenes at all stages of criminal proceedings (complaints, police custody, investigations, judicial inquiries, hearings, sentence adjustments), for both institutional and private clients, whether defendants or victims.\n\nShe has developed strong expertise in press law, ensuring the defense of clients during media crises. Member of the Juvenile Division of the Paris Bar, Anh-Mai Dang regularly represents minors before criminal courts and assists those in danger.\n\nTrained in renowned French and Anglo-Saxon law firms (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), she then worked for five years alongside Jean-Marc Fédida and Julie Fabreguettes before founding Dang Fantou. She also worked at the European Investment Bank and the judicial instruction service of the Bobigny Court.\n\nAnh-Mai Dang holds a Master II in Global Governance Studies from Sciences Po Paris Law School and a double degree in social sciences from Sciences Po Paris and Sorbonne University (UPMC). She works fluently in both French and English.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
         "nom": "Manon FANTOU",
-        "role": "Attorney-at-law",
-        "bio": "Manon Fantou assists and defends individuals in all stages of criminal proceedings before all jurisdictions. She specializes in both general and white-collar criminal law.",
+        "role": "Partner",
+        "bio": "fantou.manon@avocat-conseil.fr • +33 6 42 61 63 27\n\nManon Fantou is a lawyer at the Paris Bar. She assists and defends individuals at all stages of criminal proceedings (police custody, interrogations, judicial inquiries, correctional and criminal hearings) before all courts.\n\nShe trained for four years under Céline Lasek, a renowned criminal lawyer. In 2022, she founded her own firm and later co-founded Dang Fantou.\n\nGraduated from the Master's in Business Law at University Paris II - Panthéon Assas and King's College London, Manon Fantou practices both general criminal law and white-collar crime.\n\nShe is also the author of two novels published in 2022 and 2025 by Mercure de France.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
     ],
@@ -75,6 +122,60 @@
         "source": "Published by StreetPress, April 23, 2025",
         "texte": "Defense of an 18-year-old defendant victim of police violence and acquitted by the Paris criminal court.",
         "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
+      },
+      {
+        "titre": "Publication by Manon Fantou, criminal lawyer, of her second novel at Mercure de France",
+        "source": "Published by Ouest France, February 13, 2025",
+        "texte": "The author and lawyer Manon Fantou goes to meet readers.",
+        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/manon-fantou-ira-a-la-rencontre-des-lecteurs-a-dinard-e5df0676-ea23-11ef-a7b6-01d21f34ff3b"
+      },
+      {
+        "titre": "Drug supermarket in Chauny: acquittals, heavy sentences, and emotions during deliberation",
+        "source": "Published by L'Aisne Nouvelle, April 12, 2024",
+        "texte": "Acquittal obtained by the firm in a case of money laundering, failure to justify resources, and drug trafficking. “The 'wild grocer,' the octogenarian accused of complicity and laundering the network's money, was also acquitted. 'His 40 days in pre-trial detention cost him 10 years,' argued his lawyer in the afternoon.”",
+        "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
+      },
+      {
+        "titre": "Booba and Kaaris ordered to pay €45,000 for damage caused by their confrontation in Orly",
+        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
+        "texte": "Involvement in defending the civil party in the fight between Booba and Kaaris before the Créteil criminal court.",
+        "lien": "https://www.ouest-france.fr/societe/justice/booba-et-kaaris-condamnes-payer-45-000-eu-pour-les-degats-engendres-par-leur-confrontation-orly-6662439"
+      },
+      {
+        "titre": "Five-day trial for the protagonists of the drug supermarket dismantled in March 2020",
+        "source": "Published by L'Aisne Nouvelle, April 6, 2024",
+        "texte": "For five days, from Monday 8 to Friday 12 April, nine defendants appeared at Laon court to explain their role in organizing a major drug trafficking operation in Chauny, dismantled in March 2022.",
+        "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
+      },
+      {
+        "titre": "Defense of company executives before correctional courts in Rennes",
+        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
+        "texte": "Defense of company executives in a case involving embezzlement, breach of trust, money laundering, bankruptcy, and fraudulent insolvency, resulting in partial acquittal.",
+        "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
+      },
+      {
+        "titre": "Defense in a #MeToo case",
+        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
+        "texte": "Defense of a person involved in a major #MeToo case; the Paris Court of Appeal found that the individual had sufficient factual basis for the allegations made.",
+        "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
+      },
+      {
+        "titre": "Alsace: desecrators of the Jewish cemetery in Sarre-Union heavily fined",
+        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
+        "texte": "Defense of civil parties in the desecration of Sarre-Union cemetery, addressing both criminal and civil interests before the juvenile court of Saverne.",
+        "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
+      },
+      {
+        "titre": "Manon Fantou returns to Dinard to sign her first novel",
+        "source": "Published by Ouest France, April 7, 2022",
+        "texte": "Manon Fantou is a criminal lawyer in Paris. Born in Dinard, she just released her first novel, 'Les Confidentes', published by Mercure de France. On Saturday April 9, 2022, she will be at the Nouvelles Impressions bookstore in Dinard for a signing session.",
+        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/portrait-devenue-avocate-penaliste-elle-revient-a-dinard-pour-dedicacer-son-premier-roman-09a350b8-b65a-11ec-82d3-a0c4b0db3b06"
+      },
+      {
+        "titre": "Publication: Should private international law of bankruptcy be codified?",
+        "source": "Published by Bulletin Joly Entreprises en difficulté, November 1, 2015",
+        "texte": "Reflection on aligning French private international law for readability and simplification following recent jurisprudence of the Court of Justice of the European Union.",
+        "lien": "https://www.labase-lextenso.fr/bulletin-joly-entreprises-en-difficulte/BJE112v1"
       }
     ]
   }
