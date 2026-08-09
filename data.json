@@ -16,16 +16,20 @@
       {
         "nom": "Anh-Mai DANG",
         "role": "Associée",
-        "bio": "amd@dang-avocat.com\n\n+33 7 49 10 97 87\n\nAnh-Mai Dang est avocate au barreau de Paris. Sa pratique couvre tous les aspects du droit pénal général et du droit pénal des affaires. Dans ce cadre, elle intervient à tous les stades de la procédure pénale (plainte, garde à vue, enquêtes, information judiciaire, audience, aménagement de peine), tant pour des clients institutionnels que pour des particuliers, qu'ils soient mis en cause ou victimes d'infractions.\n\nElle a par ailleurs développé une solide expertise en droit de la presse, soucieuse d'assurer la défense de ses clients dans le cadre de crises médiatiques. Membre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient également régulièrement en défense de mineurs devant les juridictions pénales, ainsi que pour accompagner ceux en situation de danger.\n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de fonder le cabinet Dang Fantou. Elle a également travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny.\n\nAnh-Mai Dang est diplômée de l'École de Droit de Sciences Po Paris (Master II Global Governance Studies) et titulaire de la double licence en sciences sociales et sciences de Sciences Po Paris et la Sorbonne Université (UPMC). Elle travaille aussi bien en français qu'en anglais.",
+        "email": "amd@dang-avocat.com",
+        "telephone": "+33 7 49 10 97 87",
+        "bio": "Anh-Mai Dang est avocate au barreau de Paris. Sa pratique couvre tous les aspects du droit pénal général et du droit pénal des affaires. Dans ce cadre, elle intervient à tous les stades de la procédure pénale (plainte, garde à vue, enquêtes, information judiciaire, audience, aménagement de peine), tant pour des clients institutionnels que pour des particuliers, qu'ils soient mis en cause ou victimes d'infractions.\n\nElle a par ailleurs développé une solide expertise en droit de la presse, soucieuse d'assurer la defense de ses clients dans le cadre de crises médiatiques. Membre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient également régulièrement en défense de mineurs devant les juridictions pénales, ainsi que pour accompagner ceux en situation de danger.\n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal et contentieux des affaires (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de fonder le cabinet Dang Fantou. Elle a également travaillé au sein de la Banque européenne d'investissement et du service de l'instruction du tribunal judiciaire de Bobigny.\n\nAnh-Mai Dang est diplômée de l'École de Droit de Sciences Po Paris (Master II Global Governance Studies) et titulaire de la double licence en sciences sociales et sciences de Sciences Po Paris et la Sorbonne Université (UPMC). Elle travaille aussi bien en français qu'en anglais.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
         "nom": "Manon FANTOU",
         "role": "Associée",
-        "bio": "fantou.manon@avocat-conseil.fr\n+33 6 42 61 63 27\n\nManon Fantou est avocate au barreau de Paris. Elle assiste et défend des particuliers à tous les stades de la procédure pénale (gardes à vue, interrogatoires, instruction, audiences correctionnelles et criminelles) et ce, devant toutes les juridictions.\n\nPendant quatre années, Manon Fantou a fait ses armes auprès de Céline Lasek, avocate pénaliste de renom. En 2022, Manon Fantou a créé son propre cabinet avant de fonder le cabinet Dang Fantou.\n\nDiplômée du Magistère Juriste d'Affaires de l'Université Paris II - Panthéon Assas et du King's College de Londres, Manon Fantou intervient tant en droit pénal général qu'en droit pénal des affaires.\n\nManon Fantou est également l'autrice de deux romans parus en 2022 et 2025 au Mercure de France.",
+        "email": "fantou.manon@avocat-conseil.fr",
+        "telephone": "+33 6 42 61 63 27",
+        "bio": "Manon Fantou est avocate au barreau de Paris. Elle assiste et défend des particuliers à tous les stades de la procédure pénale (gardes à vue, interrogatoires, instruction, audiences correctionnelles et criminelles) et ce, devant toutes les juridictions.\n\nPendant quatre années, Manon Fantou a fait ses armes auprès de Céline Lasek, avocate pénaliste de renom. En 2022, Manon Fantou a créé son propre cabinet avant de fonder le cabinet Dang Fantou.\n\nDiplômée du Magistère Juriste d'Affaires de l'Université Paris II - Panthéon Assas et du King's College de Londres, Manon Fantou intervient tant en droit pénal général qu'en droit pénal des affaires.\n\nManon Fantou est également l'autrice de deux romans parus en 2022 et 2025 au Mercure de France.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
-    ],
+    ]
     "actualites": [
       {
         "titre": "À Clichy-sous-Bois, un jeune de 19 ans tabassé « par erreur » par des policiers",
@@ -112,12 +116,16 @@
       {
         "nom": "Anh-Mai DANG",
         "role": "Partner",
+        "email": "amd@dang-avocat.com",
+        "telephone": "+33 7 49 10 97 87",
         "bio": "amd@dang-avocat.com • +33 7 49 10 97 87\n\nAnh-Mai Dang is a lawyer at the Paris Bar. Her practice covers all aspects of general criminal law and white-collar criminal law. She intervenes at all stages of criminal proceedings (complaints, police custody, investigations, judicial inquiries, hearings, sentence adjustments), for both institutional and private clients, whether defendants or victims.\n\nShe has developed strong expertise in press law, ensuring the defense of clients during media crises. Member of the Juvenile Division of the Paris Bar, Anh-Mai Dang regularly represents minors before criminal courts and assists those in danger.\n\nTrained in renowned French and Anglo-Saxon law firms (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), she then worked for five years alongside Jean-Marc Fédida and Julie Fabreguettes before founding Dang Fantou. She also worked at the European Investment Bank and the judicial instruction service of the Bobigny Court.\n\nAnh-Mai Dang holds a Master II in Global Governance Studies from Sciences Po Paris Law School and a double degree in social sciences from Sciences Po Paris and Sorbonne University (UPMC). She works fluently in both French and English.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
         "nom": "Manon FANTOU",
         "role": "Partner",
+        "email": "fantou.manon@avocat-conseil.fr",
+        "telephone": "+33 6 42 61 63 27",
         "bio": "fantou.manon@avocat-conseil.fr • +33 6 42 61 63 27\n\nManon Fantou is a lawyer at the Paris Bar. She assists and defends individuals at all stages of criminal proceedings (police custody, interrogations, judicial inquiries, correctional and criminal hearings) before all courts.\n\nShe trained for four years under Céline Lasek, a renowned criminal lawyer. In 2022, she founded her own firm and later co-founded Dang Fantou.\n\nGraduated from the Master's in Business Law at University Paris II - Panthéon Assas and King's College London, Manon Fantou practices both general criminal law and white-collar crime.\n\nShe is also the author of two novels published in 2022 and 2025 by Mercure de France.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
