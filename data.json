@@ -1,24 +1,24 @@
 {
   "fr": {
     "menu": {
-      "presentation": "présentation",
       "cabinet": "cabinet",
+      "équipe": "équipe",
       "actualites": "actualités"
     },
-    "presentation": {
+    "cabinet": {
       "titre": "Défense pénale & contentieux",
       "sous_titres": "Droit pénal général • Droit pénal des affaires • Droit des mineurs",
       "contact": "contact@dang-fantou.com",
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
       "texte": "Le cabinet Dang Fantou est dédié à la défense pénale, ainsi qu'à la justice des mineurs. Il accompagne ses clients avec réactivité, rigueur et créativité."
     },
-    "membres": [
+    "équipe": [
       {
         "nom": "Anh-Mai DANG",
         "role": "Associée",
         "email": "amd@dang-avocat.com",
         "telephone": "+33 7 49 10 97 87",
-        "bio": "Anh-Mai Dang est avocate au barreau de Paris. Sa pratique couvre tous les aspects du droit pénal et de la justice des mineurs. Dans ce cadre, elle intervient à tous les stades de la procédure pénale (plainte, garde à vue, enquêtes, information judiciaire, audience, aménagement de peine), tant pour des clients institutionnels que pour des particuliers, qu'ils soient mis en cause ou victimes d'infractions.\n\nElle a par ailleurs développé une solide expertise en droit de la presse, soucieuse d'assurer la defense de ses clients dans le cadre de crises médiatiques. Membre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient également régulièrement en défense de mineurs devant les juridictions pénales, ainsi que pour accompagner ceux en situation de danger.\n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de fonder le cabinet Dang Fantou. Elle a également travaillé au sein du service de l'instruction du tribunal judiciaire de Bobigny.\n\nAnh-Mai Dang est diplômée de l'École de Droit de Sciences Po Paris (Master II Global Governance Studies) et titulaire du Bachelor de Sciences Po Paris. Elle travaille aussi bien en français qu'en anglais.",
+        "bio": "Anh-Mai Dang est avocate au barreau de Paris. Sa pratique couvre tous les aspects du droit pénal et de la justice des mineurs. Dans ce cadre, elle intervient à tous les stades de la procédure pénale (plainte, garde à vue, enquêtes, audience), tant pour des clients victimes d'infractions que que des clients mis en cause.\n\nElle a par ailleurs développé une solide expertise en droit de la presse, soucieuse d'assurer la defense de ses clients dans le cadre de crises médiatiques. Membre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient également régulièrement en défense de mineurs devant les juridictions pénales, ainsi que pour accompagner ceux en situation de danger.\n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de fonder le cabinet Dang Fantou. Elle a également travaillé au sein du service de l'instruction du tribunal judiciaire de Bobigny.\n\nAnh-Mai Dang est diplômée de l'École de Droit de Sciences Po Paris (Master II Global Governance Studies) et titulaire du Bachelor de Sciences Po Paris. Elle travaille aussi bien en français qu'en anglais.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
