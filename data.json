@@ -18,7 +18,7 @@
         "role": "Avocate associée",
         "email": "amd@dang-avocat.com",
         "telephone": "+33 7 49 10 97 87",
-        "bio": "Anh-Mai Dang exerce en droit pénal, droit des mineurs et droit de la presse.\n\nElle intervient aussi bien aux côtés des victimes que des personnes mises en cause, majeures comme mineures, à tous les stades de la procédure pénale, de la plainte et la garde à vue jusqu’aux enquêtes et aux audiences.\n\nMembre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient régulièrement en défense de mineurs devant les juridictions pénales, ainsi que dans le cadre de dossiers d'assistance éducative.\n\nElle a par ailleurs développé une solide expertise complémentaire en droit de la presse, notamment dans le cadre de crises médiatiques. \n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de fonder le cabinet Dang Fantou Avocates. Elle a également travaillé au sein du service de l'instruction du tribunal judiciaire de Bobigny.\n\nDiplômée du Master de l'École de Droit de Sciences Po Paris et travaille aussi bien en français qu'en anglais.",
+        "bio": "Anh-Mai Dang exerce en droit pénal, droit des mineurs et droit de la presse.\n\nElle intervient aussi bien aux côtés des victimes que des personnes mises en cause, majeures comme mineures, à tous les stades de la procédure pénale, de la plainte et la garde à vue jusqu’aux enquêtes et aux audiences.\n\nMembre de l'Antenne des Mineurs du barreau de Paris, Anh-Mai Dang intervient régulièrement en défense de mineurs devant les juridictions pénales, ainsi que dans le cadre de dossiers d'assistance éducative.\n\nElle a par ailleurs développé une solide expertise complémentaire en droit de la presse, notamment dans le cadre de crises médiatiques. \n\nFormée au sein de cabinets français et anglo-saxons reconnus pour leur expertise en droit pénal, Anh-Mai Dang a ensuite exercé pendant cinq années aux côtés de Jean-Marc Fédida et Julie Fabreguettes, avant de fonder le cabinet Dang Fantou Avocates. Elle a également travaillé au sein du service de l'instruction du tribunal judiciaire de Bobigny.\n\nDiplômée du Master de l'École de Droit de Sciences Po Paris, elle travaille aussi bien en français qu'en anglais.",
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
@@ -87,86 +87,91 @@
       }
     ]
   },
-  "en": {
-    "menu": {
-      "presentation": "presentation",
-      "cabinet": "firm",
-      "actualites": "news"
+"en": {
+  "menu": {
+    "presentation": "presentation",
+    "cabinet": "firm",
+    "actualites": "news"
+  },
+  "presentation": {
+    "titre": "Criminal Defense & Juvenile Justice",
+    "sous_titres": "Criminal Law • Juvenile Law • Press Law",
+    "contact": "contact@dang-fantou.com",
+    "adresse": "49 Rue Saint-Roch, 75001 Paris",
+    "texte": "The firm is committed to supporting its clients with rigor, responsiveness and determination. Each case is handled through a tailored approach based on listening, trust and a thorough understanding of the client's situation."
+  },
+  "membres": [
+    {
+      "nom": "Anh-Mai DANG",
+      "role": "Partner",
+      "email": "amd@dang-avocat.com",
+      "telephone": "+33 7 49 10 97 87",
+      "bio": "Anh-Mai Dang practices criminal law, juvenile law and press law.\n\nShe represents both victims and individuals under investigation or prosecution, adults and minors alike, at every stage of criminal proceedings, from the filing of a complaint and police custody through investigations and hearings.\n\nA member of the Antenne des Mineurs of the Paris Bar, Anh-Mai Dang regularly represents minors before criminal courts and assists them and their families in child protection and educational assistance proceedings.\n\nShe has also developed complementary expertise in press law, particularly in connection with media crises.\n\nAfter training in leading French and Anglo-Saxon law firms recognized for their criminal law expertise, Anh-Mai Dang worked for five years alongside Jean-Marc Fédida and Julie Fabreguettes before founding Dang Fantou Avocates. She also worked within the judicial investigation department of the Bobigny Judicial Court.\n\nShe holds a Master's degree from Sciences Po Law School and works in both French and English.",
+      "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
     },
-    "presentation": {
-      "titre": "Criminal Defense & Litigation",
-      "sous_titres": "General Criminal Law • White-Collar Crime • Juvenile Law",
-      "contact": "contact@dang-fantou.com",
-      "adresse": "49 Rue Saint-Roch, 75001 Paris",
-      "texte": "The Dang Fantou firm is dedicated to criminal defense and juvenile justice. It provides clients with responsive, rigorous, and creative legal support."
+    {
+      "nom": "Manon FANTOU",
+      "role": "Partner",
+      "email": "fantou.manon@avocat-conseil.fr",
+      "telephone": "+33 6 42 61 63 27",
+      "bio": "Manon Fantou practices criminal law and juvenile law.\n\nShe assists and represents individuals at every stage of criminal proceedings, from police custody and interrogations through judicial investigations and criminal hearings, before all courts.\n\nShe is also a member of the Antenne des Mineurs of the Paris Bar, where she assists minors and their families both in criminal proceedings and in situations involving children at risk. She places particular importance on understanding each client's individual circumstances and developing a defense strategy tailored to the specific issues of the case.\n\nManon Fantou trained for four years alongside Céline Lasek, a renowned criminal lawyer, before founding Dang Fantou Avocates.\n\nShe holds a Master's degree in Business Law from University Paris II – Panthéon-Assas and a degree from King's College London.\n\nManon Fantou is also the author of two novels, published in 2022 and 2025 by Mercure de France.",
+      "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
+    }
+  ],
+  "actualites": [
+    {
+      "titre": "In Clichy-sous-Bois, a 19-year-old beaten 'by mistake' by police officers",
+      "source": "Published by StreetPress, April 23, 2025",
+      "texte": "Defense of an 18-year-old defendant who was the victim of police violence and was acquitted by the Paris Criminal Court.",
+      "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
     },
-    "membres": [
-      {
-        "nom": "Anh-Mai DANG",
-        "role": "Partner",
-        "email": "amd@dang-avocat.com",
-        "telephone": "+33 7 49 10 97 87",
-        "bio": "Anh-Mai Dang is a lawyer at the Paris Bar. Her practice covers all aspects of general criminal law and white-collar criminal law. She intervenes at all stages of criminal proceedings (complaints, police custody, investigations, judicial inquiries, hearings, sentence adjustments), for both institutional and private clients, whether defendants or victims.\n\nShe has developed strong expertise in press law, ensuring the defense of clients during media crises. Member of the Juvenile Division of the Paris Bar, Anh-Mai Dang regularly represents minors before criminal courts and assists those in danger.\n\nTrained in renowned French and Anglo-Saxon law firms (Huc-Morel Labrousse Avocats, Clifford Chance, Goudard Avocats), she then worked for five years alongside Jean-Marc Fédida and Julie Fabreguettes before founding Dang Fantou. She also worked at the European Investment Bank and the judicial instruction service of the Bobigny Court.\n\nAnh-Mai Dang holds a Master II in Global Governance Studies from Sciences Po Paris Law School and a double degree in social sciences from Sciences Po Paris and Sorbonne University (UPMC). She works fluently in both French and English.",
-        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
-      },
-      {
-        "nom": "Manon FANTOU",
-        "role": "Partner",
-        "email": "fantou.manon@avocat-conseil.fr",
-        "telephone": "+33 6 42 61 63 27",
-        "bio": "Manon Fantou is a lawyer at the Paris Bar. She assists and defends individuals at all stages of criminal proceedings (police custody, interrogations, judicial inquiries, correctional and criminal hearings) before all courts.\n\nShe trained for four years under Céline Lasek, a renowned criminal lawyer. In 2022, she founded her own firm and later co-founded Dang Fantou.\n\nGraduated from the Master's in Business Law at University Paris II - Panthéon Assas and King's College London, Manon Fantou practices both general criminal law and white-collar crime.\n\nShe is also the author of two novels published in 2022 and 2025 by Mercure de France.",
-        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
-      }
-    ],
-    "actualites": [
-      {
-        "titre": "In Clichy-sous-Bois, a 19-year-old beaten 'by mistake' by police officers",
-        "source": "Published by StreetPress, April 23, 2025",
-        "texte": "Defense of an 18-year-old defendant victim of police violence and acquitted by the Paris criminal court.",
-        "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
-      },
-      {
-        "titre": "Publication by Manon Fantou, criminal lawyer, of her second novel at Mercure de France",
-        "source": "Published by Ouest France, February 13, 2025",
-        "texte": "The author and lawyer Manon Fantou goes to meet readers.",
-        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/manon-fantou-ira-a-la-rencontre-des-lecteurs-a-dinard-e5df0676-ea23-11ef-a7b6-01d21f34ff3b"
-      },
-      {
-        "titre": "Drug supermarket in Chauny: acquittals, heavy sentences, and emotions during deliberation",
-        "source": "Published by L'Aisne Nouvelle, April 12, 2024",
-        "texte": "Acquittal obtained by the firm in a case of money laundering, failure to justify resources, and drug trafficking. “The 'wild grocer,' the octogenarian accused of complicity and laundering the network's money, was also acquitted. 'His 40 days in pre-trial detention cost him 10 years,' argued his lawyer in the afternoon.”",
-        "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
-      },
-      {
-        "titre": "Five-day trial for the protagonists of the drug supermarket dismantled in March 2020",
-        "source": "Published by L'Aisne Nouvelle, April 6, 2024",
-        "texte": "For five days, from Monday 8 to Friday 12 April, nine defendants appeared at Laon court to explain their role in organizing a major drug trafficking operation in Chauny, dismantled in March 2022.",
-        "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
-      },
-      {
-        "titre": "Defense of company executives before correctional courts in Rennes",
-        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
-        "texte": "Defense of company executives in a case involving embezzlement, breach of trust, money laundering, bankruptcy, and fraudulent insolvency, resulting in partial acquittal.",
-        "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
-      },
-      {
-        "titre": "Defense in a #MeToo case",
-        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
-        "texte": "Defense of a person involved in a major #MeToo case; the Paris Court of Appeal found that the individual had sufficient factual basis for the allegations made.",
-        "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
-      },
-      {
-        "titre": "Alsace: desecrators of the Jewish cemetery in Sarre-Union heavily fined",
-        "source": "Published by L'Aisne Nouvelle, April 22, 2024",
-        "texte": "Defense of civil parties in the desecration of Sarre-Union cemetery, addressing both criminal and civil interests before the juvenile court of Saverne.",
-        "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
-      },
-      {
-        "titre": "Manon Fantou returns to Dinard to sign her first novel",
-        "source": "Published by Ouest France, April 7, 2022",
-        "texte": "Manon Fantou is a criminal lawyer in Paris. Born in Dinard, she just released her first novel, 'Les Confidentes', published by Mercure de France. On Saturday April 9, 2022, she will be at the Nouvelles Impressions bookstore in Dinard for a signing session.",
-        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/portrait-devenue-avocate-penaliste-elle-revient-a-dinard-pour-dedicacer-son-premier-roman-09a350b8-b65a-11ec-82d3-a0c4b0db3b06"
-      } 
-    ]
-  }
+    {
+      "titre": "Defense of a Congolese pastor persecuted for protecting LGBT people",
+      "source": "Published on LinkedIn, February 14, 2025",
+      "texte": "Obtaining asylum for a pastor persecuted in the Democratic Republic of the Congo, including through arbitrary detention, death threats, assaults, vandalism of his church and the arrest of his wife, for protecting LGBT people within his church.",
+      "lien": "https://www.linkedin.com/posts/anh-ma%C3%AF-dang-026b6577_en-ce-14-f%C3%A9vrier-la-cour-nationale-du-droit-share-7296224010671968256-ZFp7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBd-94B3Rb5vGpjm-5yV_KG7v2-RueJDbg"
+    },
+    {
+      "titre": "Manon Fantou, criminal lawyer, publishes her second novel with Mercure de France",
+      "source": "Published by Ouest-France, February 13, 2025",
+      "texte": "Author and lawyer Manon Fantou meets readers to discuss her second novel.",
+      "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/manon-fantou-ira-a-la-rencontre-des-lecteurs-a-dinard-e5df0676-ea23-11ef-a7b6-01d21f34ff3b"
+    },
+    {
+      "titre": "Drug trafficking operation in Chauny: acquittals, heavy sentences and strong emotions during the verdict",
+      "source": "Published by L'Aisne Nouvelle, April 12, 2024",
+      "texte": "Acquittal obtained by the firm in a case involving money laundering, failure to justify resources and drug trafficking.",
+      "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
+    },
+    {
+      "titre": "Five-day trial of the defendants involved in the drug trafficking operation dismantled in 2020",
+      "source": "Published by L'Aisne Nouvelle, April 6, 2024",
+      "texte": "Over five days, nine defendants appeared before the Laon court to explain their respective roles in a major drug trafficking operation in Chauny.",
+      "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
+    },
+    {
+      "titre": "Defense of company directors before the criminal courts in Rennes",
+      "source": "Published by La Nouvelle République, April 20, 2021",
+      "texte": "Defense of company directors in proceedings involving misuse of corporate assets, breach of trust, money laundering, bankruptcy and fraudulent insolvency, resulting in a partial acquittal.",
+      "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
+    },
+    {
+      "titre": "Defense in a #MeToo case",
+      "source": "Published by Le Monde, April 14, 2021",
+      "texte": "Defense of a person involved in a high-profile #MeToo case. The Paris Court of Appeal found that she had a sufficient factual basis for the allegations she had made.",
+      "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
+    },
+    {
+      "titre": "Alsace: perpetrators of the desecration of the Jewish cemetery in Sarre-Union ordered to pay substantial damages",
+      "source": "Published by Franceinfo, March 27, 2022",
+      "texte": "Representation of civil parties in the case concerning the desecration of the Sarre-Union Jewish cemetery, in both the criminal proceedings and the civil claims before the juvenile court of Saverne.",
+      "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
+    },
+    {
+      "titre": "Criminal lawyer Manon Fantou returns to Dinard to sign her first novel",
+      "source": "Published by Ouest-France, April 7, 2022",
+      "texte": "Manon Fantou is a criminal lawyer in Paris. Born in Dinard, she had just published her first novel, 'Les Confidentes', with Mercure de France. On April 9, 2022, she met readers at the Nouvelles Impressions bookstore in Dinard.",
+      "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/portrait-devenue-avocate-penaliste-elle-revient-a-dinard-pour-dedicacer-son-premier-roman-09a350b8-b65a-11ec-82d3-a0c4b0db3b06"
+    }
+  ]
 }
