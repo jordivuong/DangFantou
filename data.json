@@ -110,68 +110,69 @@
         "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
       },
       {
-      "nom": "Manon FANTOU",
-      "role": "Partner",
-      "email": "fantou.manon@avocat-conseil.fr",
-      "telephone": "+33 6 42 61 63 27",
-      "bio": "Manon Fantou practices criminal law and juvenile law.\n\nShe assists and represents individuals at every stage of criminal proceedings, from police custody and interrogations through judicial investigations and criminal hearings, before all courts.\n\nShe is also a member of the Antenne des Mineurs of the Paris Bar, where she assists minors and their families both in criminal proceedings and in situations involving children at risk. She places particular importance on understanding each client's individual circumstances and developing a defense strategy tailored to the specific issues of the case.\n\nManon Fantou trained for four years alongside Céline Lasek, a renowned criminal lawyer, before founding Dang Fantou Avocates.\n\nShe holds a Master's degree in Business Law from University Paris II – Panthéon-Assas and a degree from King's College London.\n\nManon Fantou is also the author of two novels, published in 2022 and 2025 by Mercure de France.",
-      "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
+        "nom": "Manon FANTOU",
+        "role": "Partner",
+        "email": "fantou.manon@avocat-conseil.fr",
+        "telephone": "+33 6 42 61 63 27",
+        "bio": "Manon Fantou practices criminal law and juvenile law.\n\nShe assists and represents individuals at every stage of criminal proceedings, from police custody and interrogations through judicial investigations and criminal hearings, before all courts.\n\nShe is also a member of the Antenne des Mineurs of the Paris Bar, where she assists minors and their families both in criminal proceedings and in situations involving children at risk. She places particular importance on understanding each client's individual circumstances and developing a defense strategy tailored to the specific issues of the case.\n\nManon Fantou trained for four years alongside Céline Lasek, a renowned criminal lawyer, before founding Dang Fantou Avocates.\n\nShe holds a Master's degree in Business Law from University Paris II – Panthéon-Assas and a degree from King's College London.\n\nManon Fantou is also the author of two novels, published in 2022 and 2025 by Mercure de France.",
+        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
       }
-  ],
-  "actualites": [
-    {
-      "titre": "In Clichy-sous-Bois, a 19-year-old beaten 'by mistake' by police officers",
-      "source": "Published by StreetPress, April 23, 2025",
-      "texte": "Defense of an 18-year-old defendant who was the victim of police violence and was acquitted by the Paris Criminal Court.",
-      "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
-    },
-    {
-      "titre": "Defense of a Congolese pastor persecuted for protecting LGBT people",
-      "source": "Published on LinkedIn, February 14, 2025",
-      "texte": "Obtaining asylum for a pastor persecuted in the Democratic Republic of the Congo, including through arbitrary detention, death threats, assaults, vandalism of his church and the arrest of his wife, for protecting LGBT people within his church.",
-      "lien": "https://www.linkedin.com/posts/anh-ma%C3%AF-dang-026b6577_en-ce-14-f%C3%A9vrier-la-cour-nationale-du-droit-share-7296224010671968256-ZFp7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBd-94B3Rb5vGpjm-5yV_KG7v2-RueJDbg"
-    },
-    {
-      "titre": "Manon Fantou, criminal lawyer, publishes her second novel with Mercure de France",
-      "source": "Published by Ouest-France, February 13, 2025",
-      "texte": "Author and lawyer Manon Fantou meets readers to discuss her second novel.",
-      "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/manon-fantou-ira-a-la-rencontre-des-lecteurs-a-dinard-e5df0676-ea23-11ef-a7b6-01d21f34ff3b"
-    },
-    {
-      "titre": "Drug trafficking operation in Chauny: acquittals, heavy sentences and strong emotions during the verdict",
-      "source": "Published by L'Aisne Nouvelle, April 12, 2024",
-      "texte": "Acquittal obtained by the firm in a case involving money laundering, failure to justify resources and drug trafficking.",
-      "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
-    },
-    {
-      "titre": "Five-day trial of the defendants involved in the drug trafficking operation dismantled in 2020",
-      "source": "Published by L'Aisne Nouvelle, April 6, 2024",
-      "texte": "Over five days, nine defendants appeared before the Laon court to explain their respective roles in a major drug trafficking operation in Chauny.",
-      "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
-    },
-    {
-      "titre": "Defense of company directors before the criminal courts in Rennes",
-      "source": "Published by La Nouvelle République, April 20, 2021",
-      "texte": "Defense of company directors in proceedings involving misuse of corporate assets, breach of trust, money laundering, bankruptcy and fraudulent insolvency, resulting in a partial acquittal.",
-      "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
-    },
-    {
-      "titre": "Defense in a #MeToo case",
-      "source": "Published by Le Monde, April 14, 2021",
-      "texte": "Defense of a person involved in a high-profile #MeToo case. The Paris Court of Appeal found that she had a sufficient factual basis for the allegations she had made.",
-      "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
-    },
-    {
-      "titre": "Alsace: perpetrators of the desecration of the Jewish cemetery in Sarre-Union ordered to pay substantial damages",
-      "source": "Published by Franceinfo, March 27, 2022",
-      "texte": "Representation of civil parties in the case concerning the desecration of the Sarre-Union Jewish cemetery, in both the criminal proceedings and the civil claims before the juvenile court of Saverne.",
-      "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
-    },
-     {
-      "titre": "Criminal lawyer Manon Fantou returns to Dinard to sign her first novel",
-      "source": "Published by Ouest-France, April 7, 2022",
-      "texte": "Manon Fantou is a criminal lawyer in Paris. Born in Dinard, she had just published her first novel, 'Les Confidentes', with Mercure de France. On April 9, 2022, she met readers at the Nouvelles Impressions bookstore in Dinard.",
-      "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/portrait-devenue-avocate-penaliste-elle-revient-a-dinard-pour-dedicacer-son-premier-roman-09a350b8-b65a-11ec-82d3-a0c4b0db3b06"
-    }
-  ]
+    ],
+    "actualites": [
+      {
+        "titre": "In Clichy-sous-Bois, a 19-year-old beaten 'by mistake' by police officers",
+        "source": "Published by StreetPress, April 23, 2025",
+        "texte": "Defense of an 18-year-old defendant who was the victim of police violence and was acquitted by the Paris Criminal Court.",
+        "lien": "https://www.streetpress.com/sujet/1745400046-clichy-sous-bois-jeune-tabasse-erreur-policiers-violences-policieres-igpn-audience-tribunal-justice"
+      },
+      {
+        "titre": "Defense of a Congolese pastor persecuted for protecting LGBT people",
+        "source": "Published on LinkedIn, February 14, 2025",
+        "texte": "Obtaining asylum for a pastor persecuted in the Democratic Republic of the Congo, including through arbitrary detention, death threats, assaults, vandalism of his church and the arrest of his wife, for protecting LGBT people within his church.",
+        "lien": "https://www.linkedin.com/posts/anh-ma%C3%AF-dang-026b6577_en-ce-14-f%C3%A9vrier-la-cour-nationale-du-droit-share-7296224010671968256-ZFp7?utm_source=share&utm_medium=member_desktop&rcm=ACoAABBd-94B3Rb5vGpjm-5yV_KG7v2-RueJDbg"
+      },
+      {
+        "titre": "Manon Fantou, criminal lawyer, publishes her second novel with Mercure de France",
+        "source": "Published by Ouest-France, February 13, 2025",
+        "texte": "Author and lawyer Manon Fantou meets readers to discuss her second novel.",
+        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/manon-fantou-ira-a-la-rencontre-des-lecteurs-a-dinard-e5df0676-ea23-11ef-a7b6-01d21f34ff3b"
+      },
+      {
+        "titre": "Drug trafficking operation in Chauny: acquittals, heavy sentences and strong emotions during the verdict",
+        "source": "Published by L'Aisne Nouvelle, April 12, 2024",
+        "texte": "Acquittal obtained by the firm in a case involving money laundering, failure to justify resources and drug trafficking.",
+        "lien": "https://www.aisnenouvelle.fr/id512764/article/2024-04-12/supermarche-de-la-drogue-trois-relaxes-des-peines-lourdes-pour-certains-et"
+      },
+      {
+        "titre": "Five-day trial of the defendants involved in the drug trafficking operation dismantled in 2020",
+        "source": "Published by L'Aisne Nouvelle, April 6, 2024",
+        "texte": "Over five days, nine defendants appeared before the Laon court to explain their respective roles in a major drug trafficking operation in Chauny.",
+        "lien": "https://www.aisnenouvelle.fr/id510819/article/2024-04-06/cinq-jours-de-proces-pour-les-protagonistes-du-supermarche-de-la-drogue"
+      },
+      {
+        "titre": "Defense of company directors before the criminal courts in Rennes",
+        "source": "Published by La Nouvelle République, April 20, 2021",
+        "texte": "Defense of company directors in proceedings involving misuse of corporate assets, breach of trust, money laundering, bankruptcy and fraudulent insolvency, resulting in a partial acquittal.",
+        "lien": "https://www.lanouvellerepublique.fr/deux-sevres/commune/azay-le-brule/laroche-peltier-saint-maixentais-2-ans-de-prison-avec-sursis-pour-les-epoux-pouydebat"
+      },
+      {
+        "titre": "Defense in a #MeToo case",
+        "source": "Published by Le Monde, April 14, 2021",
+        "texte": "Defense of a person involved in a high-profile #MeToo case. The Paris Court of Appeal found that she had a sufficient factual basis for the allegations she had made.",
+        "lien": "https://www.lemonde.fr/societe/article/2021/04/14/pierre-joxe-perd-en-appel-son-proces-en-diffamation-contre-alexandra-besson_6076791_3224.html"
+      },
+      {
+        "titre": "Alsace: perpetrators of the desecration of the Jewish cemetery in Sarre-Union ordered to pay substantial damages",
+        "source": "Published by Franceinfo, March 27, 2022",
+        "texte": "Representation of civil parties in the case concerning the desecration of the Sarre-Union Jewish cemetery, in both the criminal proceedings and the civil claims before the juvenile court of Saverne.",
+        "lien": "https://france3-regions.francetvinfo.fr/grand-est/bas-rhin/alsace-les-profanateurs-du-cimetiere-juif-de-sarre-union-lourdement-condamnes-a-payer-des-dommages-et-interets-un-jugement-exemplaire-2513052.html"
+      },
+      {
+        "titre": "Criminal lawyer Manon Fantou returns to Dinard to sign her first novel",
+        "source": "Published by Ouest-France, April 7, 2022",
+        "texte": "Manon Fantou is a criminal lawyer in Paris. Born in Dinard, she had just published her first novel, 'Les Confidentes', with Mercure de France. On April 9, 2022, she met readers at the Nouvelles Impressions bookstore in Dinard.",
+        "lien": "https://www.ouest-france.fr/bretagne/dinard-35800/portrait-devenue-avocate-penaliste-elle-revient-a-dinard-pour-dedicacer-son-premier-roman-09a350b8-b65a-11ec-82d3-a0c4b0db3b06"
+      }
+    ]
+  }
 }
