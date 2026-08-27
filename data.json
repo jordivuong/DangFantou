@@ -87,29 +87,29 @@
       }
     ]
   },
-"en": {
-  "menu": {
-    "presentation": "presentation",
-    "cabinet": "firm",
-    "actualites": "news"
-  },
-  "presentation": {
-    "titre": "Criminal Defense & Juvenile Justice",
-    "sous_titres": "Criminal Law • Juvenile Law • Press Law",
-    "contact": "contact@dang-fantou.com",
-    "adresse": "49 Rue Saint-Roch, 75001 Paris",
-    "texte": "The firm is committed to supporting its clients with rigor, responsiveness and determination. Each case is handled through a tailored approach based on listening, trust and a thorough understanding of the client's situation."
-  },
-  "membres": [
-    {
-      "nom": "Anh-Mai DANG",
-      "role": "Partner",
-      "email": "amd@dang-avocat.com",
-      "telephone": "+33 7 49 10 97 87",
-      "bio": "Anh-Mai Dang practices criminal law, juvenile law and press law.\n\nShe represents both victims and individuals under investigation or prosecution, adults and minors alike, at every stage of criminal proceedings, from the filing of a complaint and police custody through investigations and hearings.\n\nA member of the Antenne des Mineurs of the Paris Bar, Anh-Mai Dang regularly represents minors before criminal courts and assists them and their families in child protection and educational assistance proceedings.\n\nShe has also developed complementary expertise in press law, particularly in connection with media crises.\n\nAfter training in leading French and Anglo-Saxon law firms recognized for their criminal law expertise, Anh-Mai Dang worked for five years alongside Jean-Marc Fédida and Julie Fabreguettes before founding Dang Fantou Avocates. She also worked within the judicial investigation department of the Bobigny Judicial Court.\n\nShe holds a Master's degree from Sciences Po Law School and works in both French and English.",
-      "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
+  "en": {
+    "menu": {
+      "presentation": "presentation",
+      "cabinet": "firm",
+      "actualites": "news"
     },
-    {
+    "presentation": {
+      "titre": "Criminal Defense & Juvenile Justice",
+      "sous_titres": "Criminal Law • Juvenile Law • Press Law",
+      "contact": "contact@dang-fantou.com",
+      "adresse": "49 Rue Saint-Roch, 75001 Paris",
+      "texte": "The firm is committed to supporting its clients with rigor, responsiveness and determination. Each case is handled through a tailored approach based on listening, trust and a thorough understanding of the client's situation."
+    },
+    "membres": [
+      {
+        "nom": "Anh-Mai DANG",
+        "role": "Partner",
+        "email": "amd@dang-avocat.com",
+        "telephone": "+33 7 49 10 97 87",
+        "bio": "Anh-Mai Dang practices criminal law, juvenile law and press law.\n\nShe represents both victims and individuals under investigation or prosecution, adults and minors alike, at every stage of criminal proceedings, from the filing of a complaint and police custody through investigations and hearings.\n\nA member of the Antenne des Mineurs of the Paris Bar, Anh-Mai Dang regularly represents minors before criminal courts and assists them and their families in child protection and educational assistance proceedings.\n\nShe has also developed complementary expertise in press law, particularly in connection with media crises.\n\nAfter training in leading French and Anglo-Saxon law firms recognized for their criminal law expertise, Anh-Mai Dang worked for five years alongside Jean-Marc Fédida and Julie Fabreguettes before founding Dang Fantou Avocates. She also worked within the judicial investigation department of the Bobigny Judicial Court.\n\nShe holds a Master's degree from Sciences Po Law School and works in both French and English.",
+        "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/AnhMaiDang-Portrait.jpg"
+      },
+      {
       "nom": "Manon FANTOU",
       "role": "Partner",
       "email": "fantou.manon@avocat-conseil.fr",
