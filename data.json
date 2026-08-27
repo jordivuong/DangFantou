@@ -87,7 +87,6 @@
       }
     ]
   },
-  {
   "en": {
     "menu": {
       "presentation": "presentation",
@@ -117,7 +116,7 @@
       "telephone": "+33 6 42 61 63 27",
       "bio": "Manon Fantou practices criminal law and juvenile law.\n\nShe assists and represents individuals at every stage of criminal proceedings, from police custody and interrogations through judicial investigations and criminal hearings, before all courts.\n\nShe is also a member of the Antenne des Mineurs of the Paris Bar, where she assists minors and their families both in criminal proceedings and in situations involving children at risk. She places particular importance on understanding each client's individual circumstances and developing a defense strategy tailored to the specific issues of the case.\n\nManon Fantou trained for four years alongside Céline Lasek, a renowned criminal lawyer, before founding Dang Fantou Avocates.\n\nShe holds a Master's degree in Business Law from University Paris II – Panthéon-Assas and a degree from King's College London.\n\nManon Fantou is also the author of two novels, published in 2022 and 2025 by Mercure de France.",
       "photo": "https://raw.githubusercontent.com/jordivuong/DangFantou/main/images/ManonFantou-Portrait.jpg"
-    }
+      }
   ],
   "actualites": [
     {
