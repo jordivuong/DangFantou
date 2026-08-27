@@ -6,13 +6,13 @@
       "actualites": "actualités"
     },
     "presentation": {
-      "titre": "Défense pénale & contentieux",
+      "titre": "Défense pénale & justice des mineurs",
       "sous_titres": "Droit pénal • Droit des mineurs • Droit de la presse",
       "contact": "contact@dang-fantou.com",
       "adresse": "49 Rue Saint-Roch, 75001 Paris",
-      "texte": "Le cabinet Dang Fantou est dédié à la défense pénale et à la justice des mineurs. Il accompagne ses clients avec réactivité, rigueur et humanité."
+      "texte": "Dans les situations les plus sensibles, Dang Fantou s’engage aux côtés de ses clients avec rigueur, réactivité et détermination. Le cabinet défend chaque dossier avec une approche personnalisée, fondée sur l’écoute et la confiance."
     },
-    "membres": [
+    "cabinet": [
       {
         "nom": "Anh-Mai DANG",
         "role": "Associée",
